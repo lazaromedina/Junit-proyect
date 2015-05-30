@@ -11,7 +11,7 @@ import org.junit.runners.MethodSorters;
  */
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class TestExecutionTest {
+public class TestExecutionOrder {
     @Test
     public void edit() throws Exception {
         System.out.println("edit executed");
